@@ -1,7 +1,7 @@
 To create a project that sends a reminder message to your mobile number and email at a specific time every day,<br>
 we can use Python along with some external services like Twilio for SMS<br>
 Below is a step-by-step guide to set this up:<br>
-
+ 
 Step 1: Setting Up Twilio for SMS<br>
 Create a Twilio Account: Go to Twilio and sign up for an account.<br>
 Get Your Twilio Credentials: You will need your Twilio Account SID, Auth Token, and a Twilio phone number.<br>
